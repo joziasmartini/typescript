@@ -1,2 +1,2 @@
-# typescript-studies
+# typescript
 Studies in TypeScript.
